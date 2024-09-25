@@ -1,0 +1,20 @@
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\Fake_Syskey.Syskey1.resources
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\Fake_Syskey.Syskey2.resources
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\Fake_Syskey.Resources.resources
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\Fake Syskey.vbproj.GenerateResource.Cache
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\bin\Release\SAM Lock Tool.exe
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\bin\Release\SAM Lock Tool.pdb
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\bin\Release\SAM Lock Tool.xml
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\SAM Lock Tool.exe
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\SAM Lock Tool.xml
+E:\Dropbox\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\SAM Lock Tool.pdb
+J:\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\SAM Lock Tool.exe
+J:\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\SAM Lock Tool.xml
+J:\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\SAM Lock Tool.pdb
+J:\Projects\Fake Syskey\Fake Syskey\bin\Release\SAM Lock Tool.exe
+J:\Projects\Fake Syskey\Fake Syskey\bin\Release\SAM Lock Tool.pdb
+J:\Projects\Fake Syskey\Fake Syskey\bin\Release\SAM Lock Tool.xml
+J:\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\Fake_Syskey.Syskey1.resources
+J:\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\Fake_Syskey.Syskey2.resources
+J:\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\Fake_Syskey.Resources.resources
+J:\Projects\Fake Syskey\Fake Syskey\obj\x86\Release\Fake Syskey.vbproj.GenerateResource.Cache
